@@ -34,4 +34,6 @@ Fire Danger Operating Plan 2013
 <br><br>Section 3
 <br>--For getting Statistics Table data--
 <br>1. Set annual filter to reflect the entire calendar year. 
-<br>2. Select 'Weather' > 'Climatology' > Select the box for State Table for the Wind Speed Variable> 'Run' > Scroll to the bottom of the table and record the values.....
+<br>2. Select 'Weather' > 'Climatology' > Select the box for Stats Table for the Wind Speed Variable> 'Run' > Scroll to the bottom of the table and record the values for 'Mean', 'High by Year', and 'Average High'.
+
+
