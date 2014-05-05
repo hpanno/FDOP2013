@@ -37,3 +37,15 @@ Fire Danger Operating Plan 2013
 <br>2. Select 'Weather' > 'Climatology' > Select the box for Stats Table for the Wind Speed Variable> 'Run' > Scroll to the bottom of the table and record the values for 'Mean', 'High by Year', and 'Average High'.
 
 
+
+
+
+
+<h3>Merging Variables</h3>
+<br>Climatology> Stats Graphs> Options> Merge
+
+
+<br><h3>Wind Rose</h3>
+<br>Weather > Winds> Set annual filter for April 1 - June 30
+<br> # of days and % in the defined working set with 1 or more obs. 
+<br> Obs: the # of total observations and % of total # of possible observations @ 24 hours obs. 
