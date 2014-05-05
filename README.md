@@ -6,13 +6,13 @@ Fire Danger Operating Plan 2013
 
 <h1>Burn Day How To</h1>
 <hr> This analysis can not be completed on SIGS. This has to be done on each weather station. 
-<br><br>Section 1 
+<br>
 <br>--For Wind Speed and Relative Humidity Graphs--
 <br>1. Set annual filter to April 1-June 30. 
 <br>2. Weather > Dinurla Graphs> Select 'Wind Speed' and 'Relative Humidity' from the Varialble options> 'OK'
 <br>3. Capture and save graphics. 
  
-<br><br>Sections 2
+<br>
 <br>--For Setting Thresholds--
 <br>1. With the same settings as above, select the 'Fire Associations' button. Parameters should be set as follows:
   <br>-Large Fires: 8
@@ -31,7 +31,7 @@ Fire Danger Operating Plan 2013
 <br>3. Capture and save graphics. 
 
 
-<br><br>Section 3
+<br>
 <br>--For getting Statistics Table data--
 <br>1. Set annual filter to reflect the entire calendar year. 
 <br>2. Select 'Weather' > 'Climatology' > Select the box for Stats Table for the Wind Speed Variable> 'Run' > Scroll to the bottom of the table and record the values for 'Mean', 'High by Year', and 'Average High'.
