@@ -39,13 +39,11 @@ Fire Danger Operating Plan 2013
 
 
 
-
-
-<h3>Merging Variables</h3>
+<h5>Merging Variables</h5>
 <br>Climatology> Stats Graphs> Options> Merge
 
 
-<br><h3>Wind Rose</h3>
+<br><h5>Wind Rose</h5>
 <br>Weather > Winds> Set annual filter for April 1 - June 30
 <br> # of days and % in the defined working set with 1 or more obs. 
 <br> Obs: the # of total observations and % of total # of possible observations @ 24 hours obs. 
