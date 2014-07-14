@@ -9,7 +9,7 @@
 |D - Southern Rough           |	`5.7`           |`0.95`        |0.6843   |N                |0-122   |Linear            |
 |E - Hardwood Litter (Winter) |	`3.2`           |`0.97`        |0.9186   |N                |0-58    |Linear            |
 |F - Intermediate Brush	       |55.4            |0.825         |0.0000   |N                |0-132   |Linear
-|`G - Short-Needle (Heavy Dead)|	8.4             |0.94          |0.3993   |Y                |0-93    |Linear`
+|`G - Short-Needle (Heavy Dead)`|	`8.4`             |`0.94`          |`0.3993`   |`Y`                |`0-93`    |`Linear`
 |H - Short-Needle (Normal Dead)|`10.7`|	0.94| 0.221|  N| 0-42| Linear
 |I - Heavy Slash              |	`8.9`|	0.93|	0.3532|`Y`| 0-288| Linear
 |J - Intermediate Slash       |	`8.6`|	0.93|	0.3784|`Y`| 0-188| Linear
@@ -18,8 +18,8 @@
 |N – Sawgrass                 |	13.3|	0.88|	0.1021| N| 0-122| Linear
 |O – High Pocosin             |	28.1|	0.83|	0.0005| N| 0-161| Linear
 |P – Southern Pine Plantation |	`9.7`|	0.91|	0.2836| N| 0-4| Linear
-|Q – Alaskan Black Spruce     |	`8.7|	0.94`|	0.3697|`Y`| 0-124| Linear
-|R – Hardwood Litter (Summer) |	`7.9|	0.94`|	0.4468| N| 0-29| Linear
+|Q – Alaskan Black Spruce     |	`8.7`|	`0.94`|	0.3697|`Y`| 0-124| Linear
+|R – Hardwood Litter (Summer) |	`7.9`|	`0.94`|	0.4468| N| 0-29| Linear
 |S – Tundra	                  |13.2|	0.89|	0.1060| N| 0-47| Linear
 |T – Sagebrush	              |22.2	|0.85|	0.0045| N| 0-82| Linear
 |U – Western Pines            |	13.8|	0.88|	0.0875|`Y`| 0-59| Linear
@@ -42,7 +42,7 @@
 |D - Southern Rough           |`4.1`|0.87|0.8464|`Y`|0-116|Linear
 |E - Hardwood Litter (Winter) |`2.6`|`0.92`|0.9587|`Y`|0-57|Linear
 |F - Intermediate Brush       |`5.3`|`0.86`|0.7211|N|0-103|Linear
-|`G - Short-Needle (Heavy Dead)|4.7|0.86|0.7932|Y|0-88|Linear`
+|`G - Short-Needle (Heavy Dead)`|`4.7`|`0.86`|`0.7932`|`Y`|`0-88`|`Linear`
 |H - Short-Needle (Normal Dead)|`7.4`|0.81|0.4988|`Y`|0-39|Linear
 |I - Heavy Slash              |`5.4`|0.82|0.7171|`Y`|0-285|Linear
 |J - Intermediate Slash	       |`5.0`|0.82|0.7530|`Y`|0-187|Linear
