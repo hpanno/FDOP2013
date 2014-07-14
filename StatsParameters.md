@@ -1,4 +1,13 @@
 
+Appropriate Statistical Parameters Guidelines
+---
+<br><b>Chi-Square Value:</b> The [Chi-square Value](http://en.wikipedia.org/wiki/Chi-squared_distribution) provides a way to quantify the visual graphs and models created in Fire Family Plus. It serves as the "goodness of fit" of the data points. Less than 13 is best, less than 20 is good, anything over 26 is not acceptable. 
+<br><b>R-squared Value:</b> The [R-squared Value](http://en.wikipedia.org/wiki/Coefficient_of_determination) is used to describe how well a [regression line](http://en.wikipedia.org/wiki/Linear_regression) fits a set of data. The closer that R-squared value is to one, the better. It is a way to measure how well the applied model can predict future outcomes. 
+<br><b>P-Value:</b> Should be close to 1. Least important variable relative to the others. 
+<br><b>Bell Curve:</b> The data needs to be bell-curved. This implies that there is a [normal distribution](http://en.wikipedia.org/wiki/Normal_distribution) in our data. For our purposes it is saying that there are few occurences of All Days, Fire Days, Large-Fire Days, and Multi-Fire Days that are associated with eithen an extremely low or an extremely high BI.
+<br><b>BI_Range:</b> An acceptable BI range is within 0-100.
+<br><b>Liner or Inverted:</b> The data needs to be linear. Not inverted.
+
 ####Statistical Parameters Generated for Fire-Day for the Inland FDRA 
 
 |NFDRS Fuel Model             |Chi-square value|R-square value| P-Value |Bell Curve:Y or N|BI-Range|Linear or Inverted|
@@ -56,4 +65,3 @@
 |S – Tundra                   |`3.1`|0.89|0.9274|`Y`|0-45|Linear
 |T – Sagebrush                |`10.8`|0.77|0.2142|N|0-77|Linear
 |U – Western Pines            |`5.1`|0.86|0.7497|`Y`|0-57|Linear
-
