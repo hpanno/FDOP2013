@@ -18,6 +18,8 @@ The Pivot Table button may not be a default button of excel. My Pivot Table butt
 	- In the 'Create PivotTable' dialog box select the 'Select a table or range' radio button. The cursor should be blinking in the 'Table/Range:' field - now, select the column you want to work with. In this case, you can select two columns by cicking and dragging across the top of the two. 
 	- In the 'Choose where you want the PicotTable report to be place' sections select 'Existing worksheet' and then click the location of the work sheet that is most appropriate for your table to exist. 
 	- Select 'Ok'
+	
+
 
 	
 #####Tips and Tricks	
@@ -27,4 +29,7 @@ The Pivot Table button may not be a default button of excel. My Pivot Table butt
 
 #####Creating the Graphics 
 
-A Pivot Graphic is created and used in the same way that a Pivot Table is. 
+A Pivot Graphic is created and used in the same way that a Pivot Table is.
+
+- Activate the graph by clicking anywhere inside the graph. You will see the Pivot Table Field List. When doing tis for the first time it may open up in a separate window - you can dock this dialog box on either side of excel. This field box consists of 5 sections. 'Cause' and 'Year' should be listed in the 'Axis Fields'. 'Count of Cause' should be listed ien the Sum Values field.  
+- You can filter out and customize to a more detailed degree by selecting the filter icon next to each participating fields in the main 'Choose fields to add to repot:' dialog. 
