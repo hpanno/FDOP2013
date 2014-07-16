@@ -12,4 +12,19 @@ This excel document houses the fire data required to create the table, the pivot
 
 #####Using Pivot Tables
 
+The Pivot Table button may not be a default button of excel. My Pivot Table button exists i the Insert Ribbon. If it itsn't there ... GTS.
+
+- Insert> Pivot Table> Pivot Table>
+	- In the 'Create PivotTable' dialog box select the 'Select a table or range' radio button. The cursor should be blinking in the 'Table/Range:' field - now, select the column you want to work with. In this case, you can select two columns by cicking and dragging across the top of the two. 
+	- In the 'Choose where you want the PicotTable report to be place' sections select 'Existing worksheet' and then click the location of the work sheet that is most appropriate for your table to exist. 
+	- Select 'Ok'
+
+	
+#####Tips and Tricks	
+'Create PivotTable'
+- once an edit has been made to the placement of a label (annotation style) 
+- Select the Pivot Graph, then right click, 'Format Data Labels'
+
 #####Creating the Graphics 
+
+A Pivot Graphic is created and used in the same way that a Pivot Table is. 
