@@ -20,7 +20,6 @@ The Pivot Table button may not be a default button of excel. My Pivot Table butt
 	- Select 'Ok'
 	
 
-
 	
 #####Tips and Tricks	
 'Create PivotTable'
@@ -33,3 +32,4 @@ A Pivot Graphic is created and used in the same way that a Pivot Table is.
 
 - Activate the graph by clicking anywhere inside the graph. You will see the Pivot Table Field List. When doing tis for the first time it may open up in a separate window - you can dock this dialog box on either side of excel. This field box consists of 5 sections. 'Cause' and 'Year' should be listed in the 'Axis Fields'. 'Count of Cause' should be listed ien the Sum Values field.  
 - You can filter out and customize to a more detailed degree by selecting the filter icon next to each participating fields in the main 'Choose fields to add to repot:' dialog. 
+- Activate the Pivot Graphic > select the pie chart itself > right click the chart > select 'Format Data Labels'. In this dialog box you have the opportunity to adjust and edit the labels of the graph. In my experience I have found that the best wy to display theis informatio is to enable 'Category Name', 'Percentage', and 'Show Leader Lines' (all of this can be done in the Label Options section). In the Label Position section select 'Best Fit', then adjust labels individually if needed.
