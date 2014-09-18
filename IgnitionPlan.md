@@ -23,7 +23,7 @@ The Pivot Table button may not be a default button of excel. My Pivot Table butt
 	
 #####Tips and Tricks	
 'Create PivotTable'
-- once an edit has been made to the placement of a label (annotation style) select the Pivot Graph, then right click, 'Format Data Labels'
+- once an edit has been made to the placement of a label (annotation style) select the Pivot Graph then right click, 'Format Data Labels'
 
 #####Creating the Graphics 
 
